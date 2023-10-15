@@ -38,8 +38,8 @@ class AppState extends State<MyApp> {
           
         ),
       ),
-      home: HomePage(),
-      // home: HomePage2(),
+      // home: HomePage(),
+      home: HomePage2(),
       
     );
   }
